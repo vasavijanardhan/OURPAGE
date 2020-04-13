@@ -1,0 +1,44 @@
+.top{
+border-style: groove;
+}
+.top .ourname{
+width :200px;
+height:200px;
+margin-top:20px;
+color : purple; 
+ font-size: 50px; 
+border-style: groove;
+border-radius:300px;
+border : 1px solid black;
+border-bottom-style: ridge;
+ border-color: coral; 
+background-color: White;
+border-width: 7px; "
+}
+.top .masha{
+width:29%;
+height:90%;
+background-image: url('Masha2.png');
+float: right;
+}
+.body{
+margin-top:2%;
+width:25%;
+height:30%;
+border-style:groove;
+border : 1px solid black;
+border-bottom-style: ridge;
+ border-color: coral; 
+background-color: White;
+border-width: 1%px;
+}
+.top .boxes{
+width:20%;
+height:20%;
+border-style:groove;
+ border-color: coral; 
+background-color: White;
+border-width: 1%px;
+font-size:35px;
+}
+.top.video	                   	                 
