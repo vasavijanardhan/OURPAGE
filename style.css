@@ -47,13 +47,12 @@ font-size:35px;
 margin-left:10px;
 }
 .top .poem{
-width:50%;
+width:auto;
 height :auto;
 border-style:groove;
 border-color: coral; 
 background-color: White;
 border-width: 5%;
-background-image: url('poem.txt');
-background-repeat:no-repeat;
+margin-right:10px;
 float: right;
 }	                   	                 
