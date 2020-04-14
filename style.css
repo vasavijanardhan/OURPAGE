@@ -33,12 +33,13 @@ background-color: White;
 border-width: 1%px;
 }
 .top .boxes{
-width:20%;
-height:20%;
+width:10%;
+height:10%;
 border-style:groove;
  border-color: coral; 
 background-color: White;
 border-width: 1%px;
 font-size:35px;
+ marign-left:5%
 }
 .top.video	                   	                 
