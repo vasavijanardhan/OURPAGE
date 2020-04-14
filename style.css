@@ -1,4 +1,13 @@
-.top{
+.page{
+width:50%;
+height:auto;
+border-style: ridge;
+ border-color: coral; 
+border-width:10px;
+}
+.page.top{
+width:80%;
+height:800px;
 border-style: groove;
 }
 .top .ourname{
@@ -21,24 +30,14 @@ height:80%;
 background-image: url('Masha2.png');
 float: right;
 }
-.body{
-margin-top:2%;
-width:25%;
-height:30%;
-border-style:groove;
-border : 1px solid black;
-border-bottom-style: ridge;
- border-color: coral; 
-background-color: White;
-border-width: 1%px;
-}
-.top .boxes{
-width:40px;
-height:20px;
+.page.top .boxes{
+width:200px;
+height:150px;
 border-style:groove;
  border-color: coral; 
 background-color: White;
-border-width: 1%px;
+text-decoration:none;
+border-width: 10%px;
 font-size:35px;
 }
 .top.video	                   	                 
