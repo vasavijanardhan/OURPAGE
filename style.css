@@ -1,14 +1,19 @@
 .page{
-width:50%;
+width:auto;
 height:auto;
 border-style: ridge;
- border-color: coral; 
+border-color: HotPink; 
 border-width:10px;
 }
-.page.top{
-width:80%;
-height:800px;
-border-style: groove;
+.top{
+width:90%;
+height:auto%;
+border-style: ridge;
+margin-top:30px;
+margin-left:30px;
+margin-bottom:30px;
+border-color: HotPink; 
+background-color : AntiqueWhite ;
 }
 .top .ourname{
 width :200px;
@@ -26,18 +31,19 @@ border-width: 7px; "
 }
 .top .masha{
 width:29%;
-height:80%;
+height:450px;
 background-image: url('Masha2.png');
+background-repeat:no-repeat;
 float: right;
 }
-.page.top .boxes{
-width:200px;
-height:150px;
+.top .boxes{
+width:30%;
+height:auto;
 border-style:groove;
  border-color: coral; 
 background-color: White;
-text-decoration:none;
 border-width: 10%px;
 font-size:35px;
+margin-left:10px;
 }
 .top.video	                   	                 
