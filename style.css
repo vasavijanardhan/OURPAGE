@@ -2,16 +2,15 @@
 width:auto;
 height:auto;
 border-style: ridge;
-border-color: HotPink; 
+border-color: Hotpink; 
 border-width:10px;
 }
 .top{
 width:90%;
-height:auto%;
+height:1200px;
 border-style: ridge;
 margin-top:30px;
 margin-left:30px;
-margin-bottom:30px;
 border-color: HotPink; 
 background-color : AntiqueWhite ;
 border-width:10px;
@@ -55,4 +54,5 @@ background-color: White;
 border-width: 5%;
 margin-right:10px;
 float: right;
+margin-bottom:30px;
 }	                   	                 
